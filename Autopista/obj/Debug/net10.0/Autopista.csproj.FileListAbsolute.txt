@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\bin\Debug\net10.0\Autopista.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\bin\Debug\net10.0\Autopista.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\bin\Debug\net10.0\Autopista.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\bin\Debug\net10.0\Autopista.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\bin\Debug\net10.0\Autopista.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\refint\Autopista.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\Autopista.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Autopista\obj\Debug\net10.0\ref\Autopista.dll

@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\bin\Debug\net10.0\Musica.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\bin\Debug\net10.0\Musica.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\bin\Debug\net10.0\Musica.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\bin\Debug\net10.0\Musica.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\bin\Debug\net10.0\Musica.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\refint\Musica.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\Musica.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Musica\obj\Debug\net10.0\ref\Musica.dll

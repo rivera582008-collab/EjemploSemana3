@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\bin\Debug\net10.0\Mascotas_Intergalacticas.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\bin\Debug\net10.0\Mascotas_Intergalacticas.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\bin\Debug\net10.0\Mascotas_Intergalacticas.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\bin\Debug\net10.0\Mascotas_Intergalacticas.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\bin\Debug\net10.0\Mascotas_Intergalacticas.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\refint\Mascotas_Intergalacticas.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\Mascotas_Intergalacticas.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Mascotas_Intergalacticas\obj\Debug\net10.0\ref\Mascotas_Intergalacticas.dll

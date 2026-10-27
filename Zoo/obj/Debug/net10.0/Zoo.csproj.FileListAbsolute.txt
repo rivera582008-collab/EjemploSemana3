@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\bin\Debug\net10.0\Zoo.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\bin\Debug\net10.0\Zoo.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\bin\Debug\net10.0\Zoo.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\bin\Debug\net10.0\Zoo.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\bin\Debug\net10.0\Zoo.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\refint\Zoo.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\Zoo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoo\obj\Debug\net10.0\ref\Zoo.dll

@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\bin\Debug\net10.0\Zoologico.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\bin\Debug\net10.0\Zoologico.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\bin\Debug\net10.0\Zoologico.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\bin\Debug\net10.0\Zoologico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\bin\Debug\net10.0\Zoologico.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\refint\Zoologico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\Zoologico.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Zoologico\obj\Debug\net10.0\ref\Zoologico.dll

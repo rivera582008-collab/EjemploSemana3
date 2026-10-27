@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\bin\Debug\net10.0\Nomina_De_Epleados.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\bin\Debug\net10.0\Nomina_De_Epleados.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\bin\Debug\net10.0\Nomina_De_Epleados.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\bin\Debug\net10.0\Nomina_De_Epleados.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\bin\Debug\net10.0\Nomina_De_Epleados.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\refint\Nomina_De_Epleados.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\Nomina_De_Epleados.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\Programacion_Orientada_A_Objetos\Nomina_De_Epleados\obj\Debug\net10.0\ref\Nomina_De_Epleados.dll
